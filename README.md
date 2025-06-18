@@ -1,6 +1,6 @@
 ## Hi, I am Vikas 👋
-- 🔭 I’m currently working as lead data scientist at BOSCH specializing in Machine Learning, DeepLearning, NLP and Optimization.
-- 🌱 I’m currently learning the art of creating scalable solutions with traditional ML and Generative AI.
+- 🔭 I’m currently working as a lead data scientist at BOSCH specializing in Machine Learning, DeepLearning, NLP and Optimization.
+- 🌱 I’m currently learning the art of creating scalable solutions with traditional ML/DL and Generative AI.
 - ⚡ Fun fact: I like reading books/blogs, travelling and playing outdoor sports.
 - 📫 How to reach me:
   -     https://www.linkedin.com/in/vikaspandey92/
