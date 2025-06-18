@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I am Vikas 👋
+- 🔭 I’m currently working as lead data scientist at BOSCH specializing in Machine Learning, DeepLearning, NLP and Optimization.
+- 🌱 I’m currently learning the art of creating scalable solutions with traditional ML and Generative AI.
+- ⚡ Fun fact: I like reading books/blogs, travelling and playing outdoor sports.
+- 📫 How to reach me:
+-     https://www.linkedin.com/in/vikaspandey92/
+-     vks007pdy@gmail.com
 
 <!--
 **vikaspandey92/vikaspandey92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
