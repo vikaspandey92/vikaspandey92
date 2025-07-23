@@ -1,7 +1,6 @@
 ## Hi, I am Vikas 👋
 - 🔭 I’m currently working as a lead data scientist with more than 8 years of industrial experience.
 - 🔭 I have worked on use cases related to NLP, Computer Vision, ML, DL and GenAI.
-- 🌱 I’m currently learning and implementing the art of creating scalable solutions with Generative AI and traditional ML/DL.
 - ⚡ Fun fact: I like reading books/blogs, travelling and playing outdoor sports.
 - 📫 How to reach me:
   -     https://www.linkedin.com/in/vikaspandey92/
