@@ -1,5 +1,5 @@
 ## Hi, I am Vikas 👋
-- 🔭 I’m currently working as a lead data scientist with more than 8 years of industrial experience.
+- 🔭 I’m a data scientist with more than 8 years of industrial experience.
 - 🔭 I have worked on use cases related to NLP, Computer Vision, ML, DL and GenAI.
 - ⚡ Fun fact: I like reading books/blogs, travelling and playing outdoor sports.
 - 📫 How to reach me:
